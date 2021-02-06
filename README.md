@@ -55,3 +55,6 @@ As a user fills out daily information more and more data will be stored to paint
 - [https://www.fitocracy.com/](https://www.fitocracy.com/)
 - [https://www.loseit.com/](https://www.loseit.com/)
 - [https://www.strong.app/](https://www.strong.app/)
+
+---
+[Database Diagram](Diagram_For_App.pdf)
