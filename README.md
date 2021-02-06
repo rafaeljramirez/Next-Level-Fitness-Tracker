@@ -57,4 +57,4 @@ As a user fills out daily information more and more data will be stored to paint
 - [https://www.strong.app/](https://www.strong.app/)
 
 ---
-[Database Diagram](Diagram_For_App.pdf)
+[Database Diagram](Diagram%20For%20App.pdf)
