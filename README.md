@@ -58,4 +58,5 @@ As a user fills out daily information more and more data will be stored to paint
 
 ---
 [Database Diagram](Diagram%20for%20App%20(1).pdf)
+
 [WireFraming](Next%20Level%20Fitness%20Tracker%20Wireframe.pdf)
